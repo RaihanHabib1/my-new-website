@@ -119,5 +119,51 @@ width: 156px;
 height: 56px;
 border-radius: 8px;
 background-color: red;
-
 }
+.section{
+    margin: 0px 240px 0px;
+    text-align: center;
+    display: flex;
+}
+.offer{
+}
+.img{
+}
+.dolor{
+}
+.offer-a{
+    color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+}
+.offer-b{
+    color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+text-transform: capitalize;
+}
+.offer-c{
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px; /* 160% */
+width: 390px;
+}
+.dolor-1{
+    color: #F00;
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+}
+.dolor-2{
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px; /* 160% */
+}
+
+
